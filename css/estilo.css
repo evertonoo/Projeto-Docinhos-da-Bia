@@ -2,8 +2,8 @@
 h2{
 	margin: 0px 0px;
 }
-body{
-	background: #EC7063 ;
+.bg{
+	background-color: #EC7063 ;
 }
 #principal{
 	width: 975px;
