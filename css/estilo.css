@@ -1,0 +1,138 @@
+
+h2{
+	margin: 0px 0px;
+}
+body{
+	background: #EC7063 ;
+}
+#principal{
+	width: 975px;
+	margin: 0px auto;
+	border-radius: 10px 10px 0px 0px;
+}
+#cabecalho{
+	text-align: center;
+	background: whitesmoke;
+	padding: 0px 5px 5px 5px ;
+	border-radius: 10px 10px 0px 0px;
+	margin-bottom: 2px;
+}
+#logo{
+	margin: 0px 0px 20px 0px 
+}
+#menu {
+	text-align: center;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-bottom: 3px;
+	border-top: 1px black solid;
+	border-bottom: 1px black solid;
+	margin: 0px	auto;
+}
+#menu a{
+	text-decoration: none;
+	font-family:Trade Gothic;
+	font-size: 12;
+	padding: 5px;
+	color: black;
+}
+#menu a:hover{
+	text-decoration: none;
+	font-family:Trade Gothic;
+	font-size: 12;
+	padding: 5px;
+	background: #000000;
+	border-radius: 5px 5px 0px 0px;
+	color: white;
+}
+#area-principal{
+	width: 975px;
+	margin: 0px	auto;
+	padding: 5px 0px;
+}
+#area-postagens{
+	width: 700px;
+	float: left;
+}
+#area-lateral{
+	width: 260px;
+	float: right;
+	padding: 0px;
+}
+.titulo{
+	padding: 0px;
+	border: 1px solid red;
+}
+.galeria{
+	border: 4px solid green;
+}
+.postagens{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: #fff;
+
+}
+.data-postagem{
+	font-size: 0.8em;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+.conteudo-lateral{
+	border: solid 1px red;
+	background: #fff;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: 0px;
+	text-align: center;
+}
+.postagen-lateral{
+	font-size: 0.8em;
+	padding: 5px;
+	border-bottom: 1px solid #ccc;
+
+}
+.clear{
+	clear: both;
+}
+#home #principal #menu .home a:hover{
+	background: green;
+}
+.texto-sobre{
+	text-align: center center;
+	margin-bottom: -30px 15px;
+	padding: 5px;
+	width: 200px;
+	float: left;
+}
+#rodape{
+	border-radius: 0px 0px 10px 10px ;
+	width: 975px;
+	margin: 0px auto;
+	height: 35px;
+	background: whitesmoke;
+	text-align: center;
+}
+#rodape p{
+	color: black;
+	font-weight: bold;
+	margin: 0px;
+	padding: 5px;
+}
+#rodape a{
+	text-decoration: none;
+	color: #F781F3;
+}
+#rodape a:hover{
+	text-decoration: none;
+	color: #4B088A;
+}
+.conteudo-lateral h3{
+	background: #EC7063;
+	color: #fff;
+	padding: 4px;
+	text-align: center;
+}
+.conteudo-lateral img{
+	border-radius: 2px;
+}
